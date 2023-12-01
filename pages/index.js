@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bienvenido" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Ingresar a la web academica de:<a href="https://jvillcavillegas.github.io/">Jose Luis Villca Villegas</a>
+
         </p>
       </main>
 
