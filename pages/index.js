@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bienvenido" />
         <p className="description">
-          Ingresar a la web academica de:<a href="https://jvillcavillegas.github.io/">Jose Luis Villca Villegas</a>
+          Ingresar a la web academica de <a href="https://jvillcavillegas.github.io/"> Jose Luis Villca Villegas</a>
 
         </p>
       </main>
