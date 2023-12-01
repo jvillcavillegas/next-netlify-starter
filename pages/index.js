@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Bienvenido" />
+        <Header title="Bienvenido querido visitante de internet" />
         <p className="description">
-          Ingresar a la web academica de <a href="https://jvillcavillegas.github.io/"> Jose Luis Villca Villegas</a>
+           En el siguiente enlace podras ingresar a la web academica de <a href="https://jvillcavillegas.github.io/"> Jose Luis Villca Villegas</a>
 
         </p>
       </main>
